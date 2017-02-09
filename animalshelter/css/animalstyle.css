@@ -1,0 +1,24 @@
+root {
+display: block;
+}
+
+header  {
+padding: 1em;
+color: white;
+background-color: burlywood;
+clear: left;
+text-align: center;
+border: 2px;
+}
+footer{
+padding: 1em;
+color: white;
+background-color: burlywood;
+clear: left;
+text-align: left;
+border: 2px;
+}
+div.background{
+background-image: url("wallpaper.jpg");
+background-size: 100%;
+}
